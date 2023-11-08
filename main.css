@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;0,800;1,800&display=swap');
+img {
+    width:100%;
+    background-color: white;
+    border: 0cm;
+}
+p {
+    font-size: 20px;
+    font-family: "Open Sans";
+    line-height: 200%;
+    margin-inline: 10px; 
+    padding-right: 50px;
+    border: 0cm;
+    color: navy
+ }
+ p8{
+    background-image: url("Screenshot\ 2023-10-21\ .png");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        border: 0cm;
+        padding: 30px;
+    display: block;
+    margin:auto;
+ }
+p4 {
+    font-size: 20px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    font-style: bold;
+    margin-inline: 10px; 
+}
+p6, p7 {
+    float: left;
+    width: 15%;
+    margin-inline: 10px; 
+  }
+h1 {
+    line-height: 10px;
+    margin-bottom: 5px;
+    margin-inline: 10px; 
+   
+}
+section {
+    background-image: url("zRi7sO.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-bottom:40px;
+        padding-top: 30px;
+        border: 0cm;
+    display:block;
+}
+div.service{
+    font-size: 20px;
+    font-family: "Open Sans";
+    line-height: 200%;
+    margin-inline: 10px; 
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border: 0cm;
+    color: white ;
+    padding-left: 20px;
+    text-align: left; 
+    text-shadow: 1.5px grey;
+}
+button{
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #65aafe;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 300px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    padding-top: 25px;
+    
+}
